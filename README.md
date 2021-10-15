@@ -2,7 +2,7 @@
 
 ## I'm a Father, Husband, Author, Trainer, Consultant and a Software Engineer!
  - I'm an author of Solr and Elasticsearch books 
- - I'm a trainer, consultant and a software engineer at [Sematext](https://sematext.com)
+ - I'm a trainer, consultant and a software engineer - [gr0.dev](https://gr0.dev)
  - I run [Solr.pl](https://solr.pl) where I share knowledge about [Solr](https://lucene.apache.org/solr/)
 
 ### Connect with me
